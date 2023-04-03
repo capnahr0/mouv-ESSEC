@@ -1,0 +1,9 @@
+.picture {
+	background-image: linear-gradient;
+	width : 800px; 
+	height : 500px; 
+	border-radius: 5px;
+	margin: 20px auto;
+	padding-left: 350px;
+}
+
